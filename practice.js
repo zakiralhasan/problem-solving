@@ -341,4 +341,19 @@ const myDailyRoutine4 = [
 // };
 
 
+/*
+ 15) তোমার কাছে 80 হাজার টাকার বেশি হলে তুমি Mac কিনবে। 60 টাকার বেশি হলে gaming ল্যাপটপ কিনবে। 40 হাজার টাকার বেশি হলে lenovo yoga কম্পিউটার কিনবে। 20 হাজার টাকার বেশি হলে পুরান ল্যাপটপ কিনবে। না হয় তুমি মোবাইল দিয়ে কাজ চালাবে।
+*/
+const myMoney = 80000;
 
+// if(myMoney > 80000){
+//     console.log('I will buy a Macbook');
+// }else if(myMoney > 60000 && myMoney <= 80000){
+//     console.log('I will buy a gaming laptop');
+// }else if(myMoney > 40000 && myMoney <= 60000){
+//     console.log('I will buy a lenovo yoga laptop');
+// }else if(myMoney > 20000 && myMoney <= 40000){
+//     console.log('I will buy a second hand laptop');
+// }else{
+//     console.log('Otherwise I will work with mobile');
+// };
